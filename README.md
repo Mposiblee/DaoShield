@@ -19,4 +19,8 @@ Standard keycaps such as MBK are excellent in height. But the LDSA format will n
 
 # Inspiration
 
-When designing the case, I was inspired by - [Corne ish zen](https://github.com/LOWPROKB/zmk-config-Corne-ish-Zen) by [Darryldh](https://github.com/Darryldh) 
+![Dao Shield](pics/0.3.jpg)
+
+When designing the case, I was inspired by - [Corne ish zen](https://github.com/LOWPROKB/zmk-config-Corne-ish-Zen) by [Darryldh](https://github.com/Darryldh)
+
+Dao Shield is thicker than corne ish zen. But if you count from the bottom to the keycap, then the height is almost the same.
