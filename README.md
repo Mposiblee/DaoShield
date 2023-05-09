@@ -40,3 +40,10 @@ In general, the case made in jlc is quite beautiful and suitable for temporary u
 # Board thickness
 
 The case is made specifically for ready made keyboards, which have different board thicknesses. Therefore, all standard pcb ones from 0.8mm to 1.6 are suitable, but I would recommend a thickness of 1.2.
+
+
+# Contacts
+
+Telegram channel: https://t.me/mposibl
+Telegram chat: https://t.me/mposibleee
+Discord: Nechto#1284
