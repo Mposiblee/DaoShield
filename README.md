@@ -45,5 +45,7 @@ The case is made specifically for ready made keyboards, which have different boa
 # Contacts
 
 Telegram channel: https://t.me/mposibl
+
 Telegram chat: https://t.me/mposibleee
+
 Discord: Nechto#1284
