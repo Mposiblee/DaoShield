@@ -1,2 +1,2 @@
 # DaoShield
-[![Dao Choc BLE](https://imgur.com/a/jmumjiJ.jpg)](https://imgur.com/a/jmumjiJ.jpg)
+[![Dao Shield](https://imgur.com/a/jmumjiJ.jpg)
