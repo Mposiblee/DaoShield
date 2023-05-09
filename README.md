@@ -8,13 +8,16 @@ Available in 44 and 42 key variants
 - [Dao Choc BLE](https://github.com/yumagulovrn/dao-choc-ble) by [Rafael Yumagulov](https://github.com/yumagulovrn) 
 
 
-# Fixing switches
+# Features of the structure
 ![Dao Shield](pics/0.2.jpg)
 
 The case plate differs from the standard ones. First, the switches are attached to the board and only then the plate is closed. 
 I see advantages in this structure. When replacing switches, you do not need to scratch the plate. Also, the replacement is more convenient. 
 In the case, the switches stand firmly, as they are clamped on both sides, by the board and the case.
 Standard keycaps such as MBK are excellent in height. But the LDSA format will not work, as it will beat the walls against the case.
+
+The battery should be used up to 4 mm (declared by the manufacturer). If the height is higher, then the body may bulge a little.
+
 
 
 # Inspiration
