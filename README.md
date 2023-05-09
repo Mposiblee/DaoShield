@@ -1,2 +1,2 @@
 # DaoShield
-[![Dao Shield](https://imgur.com/a/jmumjiJ.jpg)
+![Dao Shield](https://imgur.com/a/jmumjiJ.jpg)
