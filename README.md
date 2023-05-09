@@ -43,7 +43,7 @@ The case is made specifically for ready made keyboards, which have different boa
 
 # More photos
 
-More photos you can search in Wiki - https://github.com/Mposiblee/DaoShield/wiki
+More images you can search in Wiki - https://github.com/Mposiblee/DaoShield/wiki
 
 # Contacts
 
