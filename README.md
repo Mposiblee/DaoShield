@@ -35,3 +35,8 @@ I had experience with only one printed case. I ordered it from jlc, SLA(resin) m
 It should be borne in mind that there are screw cutouts in the case itself and frequent opening of the plastic case can spoil them. In the future, I'm thinking of enlarging the hole so that I can put a [screw insert](https://aliexpress.ru/item/4000232925592.html?sku_id=10000000945438228). But it will be necessary to test.
 
 In general, the case made in jlc is quite beautiful and suitable for temporary use.
+
+
+# Board thickness
+
+The case is made specifically for ready made keyboards, which have different board thicknesses. Therefore, all standard pcb ones from 0.8mm to 1.6 are suitable, but I would recommend a thickness of 1.2.
