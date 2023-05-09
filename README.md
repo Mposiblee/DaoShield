@@ -10,4 +10,5 @@ Available in 44 and 42 key variants
 
 # Features
 ![Dao Shield](pics/0.1.JPG)
+
 The case plate differs from the standard ones. First, the switches are attached to the board and only then the plate is closed. Standard keycaps such as MBK are excellent in height. But the LDSA format will not work, as it will beat the walls against the case.
