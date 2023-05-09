@@ -15,3 +15,8 @@ The case plate differs from the standard ones. First, the switches are attached 
 I see advantages in this structure. When replacing switches, you do not need to scratch the plate. Also, the replacement is more convenient. 
 In the case, the switches stand firmly, as they are clamped on both sides, by the board and the case.
 Standard keycaps such as MBK are excellent in height. But the LDSA format will not work, as it will beat the walls against the case.
+
+
+# Inspiration
+
+When designing the case, I was inspired by - [Corne ish zen](https://github.com/LOWPROKB/zmk-config-Corne-ish-Zen) by [Darryldh](https://github.com/Darryldh) 
