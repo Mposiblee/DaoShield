@@ -31,5 +31,7 @@ Dao Shield is thicker than corne ish zen. But if you count from the bottom to th
 ![Dao Shield](pics/0.5.jpg)
 
 I had experience with only one printed case. I ordered it from jlc, SLA(resin) material. Since in some places the wall thickness is 1 mm, the case is quite elastic. In order to prevent this, you can add several cutouts for the screws. You can also order from MJF material, it will be stronger.
+
 It should be borne in mind that there are screw cutouts in the case itself and frequent opening of the plastic case can spoil them. In the future, I'm thinking of enlarging the hole so that I can put a [screw insert](https://aliexpress.ru/item/4000232925592.html?sku_id=10000000945438228). But it will be necessary to test.
+
 In general, the case made in jlc is quite beautiful and suitable for temporary use.
