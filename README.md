@@ -1,2 +1,2 @@
 # DaoShield
-![Dao Shield](DaoShield/pics/DaoShield.JPG)
+![Dao Shield](pics/DaoShield.JPG)
